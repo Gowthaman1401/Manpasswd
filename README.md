@@ -4,7 +4,7 @@
 [![PyPI - License](https://img.shields.io/pypi/l/manpasswd)](https://github.com/Gowthaman1401/ManPasswd/blob/main/LICENSE)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/manpasswd?color=red)](https://pypi.python.org/pypi/manpasswd)
 
-Password manage to store passwords.
+Password manager to store passwords using postgreSQL.
 
 ## Installation
 
