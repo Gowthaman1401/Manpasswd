@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='manpasswd',
     packages=setuptools.find_packages(),
-    version='2.4.4',
+    version='1.0.0',
     license='MIT',
     description='Password Manager using PostgreSQL',
     author='Gowthaman',
