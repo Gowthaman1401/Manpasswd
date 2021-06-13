@@ -73,7 +73,7 @@ class Menu:
 
     def main_menu(self):
         try:
-            # Key(self.master_key, self.db_username, self.db_name).set()
+            Key(self.master_key, self.db_username, self.db_name).set()
             # if not self.master_key:
             # self.master_key = getpass.getpass('Please provide the master key to access manpasswd : ')
             # Key(self.master_key, self.db_username, self.db_name).validate()
