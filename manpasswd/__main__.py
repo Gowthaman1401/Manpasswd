@@ -5,7 +5,7 @@ from . import manpasswd
 
 def get_argument():
     parser = argparse.ArgumentParser(usage="manpasswd [options]", )
-    parser.add_argument('-v', '--version', action='version', help='show version number and exit', version="2.4.4")
+    parser.add_argument('-v', '--version', action='version', help='show version number and exit', version="1.0.0")
     group = parser.add_argument_group("to access manpasswd")
     group.add_argument("--master-key", default=False, metavar='', help="masterKey to access manpasswd")
     group.add_argument("--new-masterkey", default=False, metavar='', help="to set new masterkey")
