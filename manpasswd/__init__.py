@@ -1,6 +1,6 @@
 """Password Manager using PostgreSQL"""
 
-__version__ = '2.4.4'
+__version__ = '1.0.0'
 
 from .manpasswd import Manpasswd
 from .Menu import Data, Menu, Key
