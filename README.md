@@ -1,4 +1,4 @@
-# Manpasswd
+# [Manpasswd](https://test.pypi.org/project/manpasswd)
 
 <!-- [![PyPI](https://img.shields.io/pypi/v/manpasswd)](https://pypi.python.org/pypi/manpasswd)
 [![PyPI - License](https://img.shields.io/pypi/l/manpasswd)](https://github.com/Gowthaman1401/ManPasswd/blob/main/LICENSE)
