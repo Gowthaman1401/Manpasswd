@@ -6,9 +6,9 @@
 
 Password manager to store passwords using postgreSQL.
 
-## Installation
+<!-- ## Installation
 
-`pip install -U manpasswd`
+`pip install -U manpasswd` -->
 
 ## Usage
 
